@@ -1,0 +1,11 @@
+D:\Anees_Office\ExpenseManagementSystem\Service\BalSendMail\BalSendMail\bin\Debug\BalSendMail.exe.config
+D:\Anees_Office\ExpenseManagementSystem\Service\BalSendMail\BalSendMail\bin\Debug\BalSendMail.exe
+D:\Anees_Office\ExpenseManagementSystem\Service\BalSendMail\BalSendMail\bin\Debug\BalSendMail.pdb
+D:\Anees_Office\ExpenseManagementSystem\Service\BalSendMail\BalSendMail\bin\Debug\Newtonsoft.Json.dll
+D:\Anees_Office\ExpenseManagementSystem\Service\BalSendMail\BalSendMail\bin\Debug\Newtonsoft.Json.xml
+D:\Anees_Office\ExpenseManagementSystem\Service\BalSendMail\BalSendMail\obj\Debug\BalSendMail.csprojResolveAssemblyReference.cache
+D:\Anees_Office\ExpenseManagementSystem\Service\BalSendMail\BalSendMail\obj\Debug\BalSendMail.csproj.CoreCompileInputs.cache
+D:\Anees_Office\ExpenseManagementSystem\Service\BalSendMail\BalSendMail\obj\Debug\BalSendMail.exe
+D:\Anees_Office\ExpenseManagementSystem\Service\BalSendMail\BalSendMail\obj\Debug\BalSendMail.pdb
+D:\Anees_Office\ExpenseManagementSystem\Service\BalSendMail\BalSendMail\bin\Debug\System.Net.Http.dll
+D:\Anees_Office\ExpenseManagementSystem\Service\BalSendMail\BalSendMail\obj\Debug\BalSendMail.exe.config
